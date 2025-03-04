@@ -1,0 +1,5 @@
+#ignore vs code workspaces
+*.code-workspace
+
+#ignore the settings file
+settings.json
